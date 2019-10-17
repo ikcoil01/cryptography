@@ -1,0 +1,58 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20190804023950
+Username: DESKTOP-****
+RunAs User: DESKTOP-*****
+Configuration Name: 
+Machine: DESKTOP-****** (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 19264
+PSVersion: 5.1.17763.592
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.592
+BuildVersion: 10.0.17763.592
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\ikcoi\Documents\School\Project3\Task32019-08-04-39-50.log
+Lowest hash produced in 10 seconds FC52784542D1971C7D56637216145B4A3B21A05155B4C2012E18120AAB38D381
+Lowest hash produced in 10 seconds 90080A145AF82655775255C0415CD57C4188709979B25B114D81424E37D77083
+Lowest hash produced in 10 seconds
+Lowest hash produced in 10 seconds
+Lowest hash produced in 10 seconds 36125ED78993982768532A016330C172088B1F83990373A21E50900007325DC6
+Lowest hash produced in 10 seconds 9580C41ABC01E5C05A53AD631628074E6CE081521B1264411057520C058625A0
+Lowest hash produced in 10 seconds 4678450417B2F2006B21DE7A0A43324457296296270237F96870D5B5E332F245
+Lowest hash produced in 10 seconds 95643E174912EF81D69568D71417E470132D44969B25105E66770D680643706B
+Lowest hash produced in 10 seconds 60689013DBFF12229494FD2B6089B833D279089017B6495763094004A919374B
+Lowest hash produced in 10 seconds 21500A9B291EE729C5B6406581F06A8098582FB93011301E0712403D82018FF4
+Lowest hash produced in 20 seconds 2578910CF2622DDAC547244923039092F80946639C41C483997251265768408A
+Lowest hash produced in 20 seconds 9C1655BC5005BD031186933394734C13412A22733875C9082273685986292162
+Lowest hash produced in 20 seconds A4301C289D02AE545B803820E166905733344F221C90870235B6769495B6421D
+Lowest hash produced in 20 seconds 650016244F13457FA1FB509858165E9582467373167620AD3351378B23458116
+Lowest hash produced in 20 seconds A6B519B0B3011377016DB739E132D002B92082F334906303DE4B566745571797
+Lowest hash produced in 20 seconds
+Lowest hash produced in 20 seconds 042595DBBB8863B8984752209B05D27112024C6C1A40246110A0998B7F963013
+Lowest hash produced in 20 seconds 4A043D1A2E01D887EE10400565034A46567786BD918042068338277BF3283398
+Lowest hash produced in 20 seconds 22C242E678E029689241940100A714013A679F5167D20D87A5667B9114CF0245
+Lowest hash produced in 20 seconds
+Lowest hash produced in 30 seconds EE21562C134630353000D04B73338A4846B160329C7273685982F04A3088262A
+Lowest hash produced in 30 seconds 58626CA25023646025A004060D8C34D06BD699123540C51828945A51F285551B
+Lowest hash produced in 30 seconds FD04E059111665A177517663F1409873411EEE0DE431A76820B0751221A17922
+Lowest hash produced in 30 seconds E43E15D2324050513588C5343306936367CD52E17532AD52152A2136F3F531F0
+Lowest hash produced in 30 seconds 1571A238113446A15143F00227C24DDDAC3373466E1611559CD768D463458230
+Lowest hash produced in 30 seconds ADB9658723F730721E00115AAB143E8864E25F3748036351140F1775225A7283
+Lowest hash produced in 30 seconds 1DE3D7354AE3C9114561F80B0A4A210D462234070853359967016D212E702E27
+Lowest hash produced in 30 seconds 30F170020A232018B20199058C59141F7639163187CE1711313B1A9266FE8D71
+Lowest hash produced in 30 seconds 136D413475AC564BC465B0A03B1452640C20861A619E707C523073187532BB31
+Lowest hash produced in 30 seconds 71657BC12AC5684A50551810BC821C413C22C35400071A50202C51424BB7AF60
+Average based on 10 seconds was: 2823.7
+Average based on 20 seconds was: 2806.2
+Average based on 30 seconds was: 3513.3
+Lowest value given second for the fomula is 2812.0925 and a increase of 5.8925 ascii values per/second
+My thought proces is the minimun and best possible outcome is the minimum over the entire period and could hypothetically happen in the first second however when considering the average change over time the ascii total number increases at given rate during pass of each second relative to the midpoint it goes up or down.
+**********************
+Windows PowerShell transcript end
+End time: 20190804024851
+**********************

@@ -1,0 +1,74 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20190803212528
+Username: DESKTOP-*****\****
+RunAs User: DESKTOP-*****\****
+Configuration Name: 
+Machine: DESKTOP-***** (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 19264
+PSVersion: 5.1.17763.592
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.592
+BuildVersion: 10.0.17763.592
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\******.log
+MACTripleDES
+Small file hashed 	962 times Largeer file hashed 	935 times
+MD5
+Small file hashed 	1391 times Largeer file hashed 	1425 times
+SHA1
+Small file hashed 	1433 times Largeer file hashed 	1413 times
+SHA256
+Small file hashed 	1264 times Largeer file hashed 	1220 times
+SHA384
+Small file hashed 	1265 times Largeer file hashed 	1269 times
+SHA384
+Small file hashed 	1263 times Largeer file hashed 	1221 times
+------------------------------
+Comparison Metrics Small File
+------------------------------
+Worst Performing Algorithm
+MACTripleDES : 962
+Best Performing Algorithm
+SHA1 : 1433
+------------------------------
+Comparison Metrics Larger File
+------------------------------
+Worst Performing Algorithm
+MACTripleDES : 935
+Best Performing Algorithm
+MD5 : 1425
+Algorithm: MACTripleDES
+Collision time for Small 3.81678073085323E+66 years and 355 days
+Collision time for Large 3.92699792842867E+66 years and 10 days
+Algorithm: SHA1
+Collision time for Small 2.56227708519247E+66 years and 242 days
+Collision time for Large 2.59854427677339E+66 years and 97 days
+Algorithm: SHA512
+Collision time for Small 2.90715998660396E+66 years and 305 days
+Collision time for Large 3.00716057582375E+66 years and 64 days
+Algorithm: SHA256
+Collision time for Small 2.90486001826013E+66 years and 341 days
+Collision time for Large 3.00962546154164E+66 years and 175 days
+Algorithm: MD5
+Collision time for Small 2.63964274844055E+66 years and 101 days
+Collision time for Large 2.57666179865319E+66 years and 148 days
+Algorithm: SHA384
+Collision time for Small 2.90256368622988E+66 years and 178 days
+Collision time for Large 2.89341454931505E+66 years and 44 days
+Hardware Specs
+CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz 
+ HDD Capacity: 231.50GB 
+ HDD Space: 32.91% Free (76.18GB) 
+ RAM: 31.92GB 
+ Operating System: Microsoft Windows 10 Pro, Service Pack: 0 
+ Last Reboot: 07/31/2019 23:05:43
+**********************
+Windows PowerShell transcript end
+End time: 20190803212541
+**********************
